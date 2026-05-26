@@ -1,0 +1,7 @@
+C:\Users\Muhammed\Desktop\c#\asal sayi toplami\asal sayi toplami\bin\Debug\asal sayi toplami.exe.config
+C:\Users\Muhammed\Desktop\c#\asal sayi toplami\asal sayi toplami\bin\Debug\asal sayi toplami.exe
+C:\Users\Muhammed\Desktop\c#\asal sayi toplami\asal sayi toplami\bin\Debug\asal sayi toplami.pdb
+C:\Users\Muhammed\Desktop\c#\asal sayi toplami\asal sayi toplami\obj\Debug\asal sayi toplami.csprojAssemblyReference.cache
+C:\Users\Muhammed\Desktop\c#\asal sayi toplami\asal sayi toplami\obj\Debug\asal sayi toplami.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\Desktop\c#\asal sayi toplami\asal sayi toplami\obj\Debug\asal sayi toplami.exe
+C:\Users\Muhammed\Desktop\c#\asal sayi toplami\asal sayi toplami\obj\Debug\asal sayi toplami.pdb
