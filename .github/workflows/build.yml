@@ -13,5 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: MSBuild ile derle
+      - name: MSBuild kurulumu
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Çözümü derle
         run: msbuild "asal sayi toplami.sln" /p:Configuration=Release /verbosity:minimal

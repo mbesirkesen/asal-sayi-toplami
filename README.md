@@ -8,7 +8,7 @@ Kullanıcıdan alınan **N** değerine kadar (dahil) olan tüm asal sayıların 
 
 ## Gereksinimler
 
-- [.NET Framework 4.6.1](https://dotnet.microsoft.com/download/dotnet-framework/net461) veya üzeri
+- [.NET Framework 4.6.2](https://dotnet.microsoft.com/download/dotnet-framework/net462) veya üzeri
 - Windows üzerinde derleme için [Visual Studio](https://visualstudio.microsoft.com/) veya MSBuild
 
 ## Çalıştırma
