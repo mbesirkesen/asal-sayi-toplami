@@ -42,7 +42,3 @@ asal-sayi-toplami/
     ├── App.config
     └── asal sayi toplami.csproj
 ```
-
-## Lisans
-
-Bu proje [MIT lisansı](LICENSE) altında yayınlanmıştır.
